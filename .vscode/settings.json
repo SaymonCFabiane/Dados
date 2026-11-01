@@ -1,9 +1,0 @@
-{
-  "files.watcherExclude": {
-    "**/dados/**": true
-  },
-  "search.exclude": {
-    "**/dados": true
-  },
-  "python.analysis.exclude": ["**/dados"]
-}
